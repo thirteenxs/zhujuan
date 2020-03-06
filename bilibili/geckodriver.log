@@ -1,0 +1,1735 @@
+1583241961787	geckodriver	INFO	Listening on 127.0.0.1:5808
+1583241964863	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583241966155	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583241968394	Marionette	INFO	Listening on port 5816
+1583241968896	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+[Child 26416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 34[Child 23232, Chrome_ChildThread] WARNING: pi6
+pe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[
+Child 26416, Chrome_ChildUnable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242015304	Marionette	INFO	Listening on port 5918
+1583242015586	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+ line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1583242121934	geckodriver	INFO	Listening on 127.0.0.1:6299
+1583242125037	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242126268	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242128189	Marionette	INFO	Listening on port 6307
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242128571	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583242162177	geckodriver	INFO	Listening on 127.0.0.1:6460
+1583242165314	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242166553	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242168574	Marionette	INFO	Listening on port 6475
+1583242168852	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242241988	geckodriver	INFO	Listening on 127.0.0.1:6701
+1583242245068	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242246538	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242248505	Marionette	INFO	Listening on port 6710
+1583242248604	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242298639	geckodriver	INFO	Listening on 127.0.0.1:6845
+1583242301776	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242303101	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242304984	Marionette	INFO	Listening on port 6853
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242305319	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583242332573	geckodriver	INFO	Listening on 127.0.0.1:6989
+1583242335662	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242336856	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242338872	Marionette	INFO	Listening on port 7002
+1583242339208	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242383488	geckodriver	INFO	Listening on 127.0.0.1:7117
+1583242386609	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242387829	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242390038	Marionette	INFO	Listening on port 7130
+1583242390171	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242415597	geckodriver	INFO	Listening on 127.0.0.1:7241
+1583242418701	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242419969	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242421842	Marionette	INFO	Listening on port 7252
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242422235	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583242683878	geckodriver	INFO	Listening on 127.0.0.1:7527
+1583242686995	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242688268	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242690378	Marionette	INFO	Listening on port 7536
+1583242690592	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242712688	geckodriver	INFO	Listening on 127.0.0.1:7647
+1583242715805	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242717098	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242719080	Marionette	INFO	Listening on port 7659
+1583242719348	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242807621	geckodriver	INFO	Listening on 127.0.0.1:7799
+1583242810731	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242811979	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242813881	Marionette	INFO	Listening on port 7807
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242814288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583242836953	geckodriver	INFO	Listening on 127.0.0.1:7928
+1583242840051	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242841206	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242843165	Marionette	INFO	Listening on port 7936
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242843584	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583242862478	geckodriver	INFO	Listening on 127.0.0.1:8038
+1583242865591	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242866834	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242868798	Marionette	INFO	Listening on port 8046
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242869164	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583242897844	geckodriver	INFO	Listening on 127.0.0.1:8186
+1583242900974	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242902246	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242904320	Marionette	INFO	Listening on port 8194
+1583242904540	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242943933	geckodriver	INFO	Listening on 127.0.0.1:8328
+1583242947035	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242948355	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583242950303	Marionette	INFO	Listening on port 8344
+1583242950569	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243227367	geckodriver	INFO	Listening on 127.0.0.1:8594
+1583243230453	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243231745	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243233763	Marionette	INFO	Listening on port 8608
+1583243234019	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243262503	geckodriver	INFO	Listening on 127.0.0.1:8738
+1583243265625	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243266868	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243268808	Marionette	INFO	Listening on port 8747
+1583243269158	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243340260	geckodriver	INFO	Listening on 127.0.0.1:8894
+1583243343370	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243344544	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243346613	Marionette	INFO	Listening on port 8902
+1583243346905	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243471789	geckodriver	INFO	Listening on 127.0.0.1:9117
+1583243474926	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243476169	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243478088	Marionette	INFO	Listening on port 9125
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243478466	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583243535997	geckodriver	INFO	Listening on 127.0.0.1:9260
+1583243539091	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243540322	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243542223	Marionette	INFO	Listening on port 9274
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243542624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583243580125	geckodriver	INFO	Listening on 127.0.0.1:9428
+1583243583249	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243584713	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243586899	Marionette	INFO	Listening on port 9438
+1583243587288	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+[Child 25780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25780, Chrome_ChildT[Child 13984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 13524, Chrome_Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1583243676800	geckodriver	INFO	Listening on 127.0.0.1:9582
+1583243679902	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243681158	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243683084	Marionette	INFO	Listening on port 9591
+1583243683441	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243759029	geckodriver	INFO	Listening on 127.0.0.1:9745
+1583243762135	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243763292	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243765307	Marionette	INFO	Listening on port 9760
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243765665	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 18384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18384, Chrome_ChildThre[Parent 12904, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24928, Chrome_1583243816928	geckodriver	INFO	Listening on 127.0.0.1:9924
+1583243820035	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243821202	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583243823906	Marionette	INFO	Listening on port 9940
+1583243824097	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13448, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23608, Chrome_ChildThread] WARNING[Child 11140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11140, Chrom[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rpaths.vrpath
+1583243940825	Marionette	INFO	Listening on port 10200
+1583243941095	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583244058048	geckodriver	INFO	Listening on 127.0.0.1:10474
+1583244061129	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583244062346	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583244064400	Marionette	INFO	Listening on port 10484
+1583244064667	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+[Child 27200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27200,[Child 137Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583287009989	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583287012300	Marionette	INFO	Listening on port 36304
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583287012760	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s1.hdslb.com/bfs/static/passport/static/js/vendor.f2eae74c56b04a5dcaf8.js, line 99: NS_ERROR_NOT_INITIALIZED: 
+1583287179066	geckodriver	INFO	Listening on 127.0.0.1:36477
+1583287182167	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583287183333	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583287185052	Marionette	INFO	Listening on port 36485
+1583287185235	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://s1.hdslb.com/bfs/static/passport/static/js/vendor.f2eae74c56b04a5dcaf8.js, line 99: NS_ERROR_NOT_INITIALIZED: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1583287261080	geckodriver	INFO	Listening on 127.0.0.1:36614
+1583287264193	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583287265384	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583287267208	Marionette	INFO	Listening on port 36622
+1583287267240	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+[Child 21248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[Child 10
+360, Ch[Child 2124rome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10360, Chrome_ChildThread] WARNING: pipe[Child 25796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25796, Chrome_Child[GPU 25160, Chrome_ChildThrea
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1583287382395	geckodriver	INFO	Listening on 127.0.0.1:36799
+1583287385545	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583287386861	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583287388614	Marionette	INFO	Listening on port 36809
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583287389095	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583287450493	geckodriver	INFO	Listening on 127.0.0.1:36992
+1583287453597	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583287454747	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583287456483	Marionette	INFO	Listening on port 37008
+1583287456690	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://s1.hdslb.com/bfs/static/passport/static/js/vendor.f2eae74c56b04a5dcaf8.js, line 99: NS_ERROR_NOT_INITIALIZED: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1583287514297	geckodriver	INFO	Listening on 127.0.0.1:37134
+1583287517404	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583287518588	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583287520520	Marionette	INFO	Listening on port 37142
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583287520959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 70ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.child1/memoryActor11
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/netmonitor/src/connector/firefox-connector.js, line 101: TypeError: this.tabTarget is null
+[Parent 24456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 24456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[Child 9420,  14540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14540, Chrome_Chil[[GPU 24288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/bui
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+INFO	Listening on port 37451
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583287775162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583287806746	geckodriver	INFO	Listening on 127.0.0.1:37543
+1583287809824	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583287810886	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583287812313	Marionette	INFO	Listening on port 37557
+1583287812365	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583287862177	geckodriver	INFO	Listening on 127.0.0.1:37658
+1583287865290	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583287866310	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583287867660	Marionette	INFO	Listening on port 37666
+1583287867844	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583287887580	geckodriver	INFO	Listening on 127.0.0.1:37734
+1583287890694	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583287891747	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583287893316	Marionette	INFO	Listening on port 37742
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583287893728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583287931907	geckodriver	INFO	Listening on 127.0.0.1:37837
+1583287935026	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583287936105	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583287937478	Marionette	INFO	Listening on port 37850
+1583287937566	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583288259349	geckodriver	INFO	Listening on 127.0.0.1:38097
+1583288262462	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583288263579	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583288291859	geckodriver	INFO	Listening on 127.0.0.1:38144
+1583288294985	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--disable-gpu"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583288296319	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583288298216	Marionette	INFO	Listening on port 38152
+1583288298519	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 27140, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11620, Chrome_ChildThread] WARNING: pi*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 27300, Chrome_ChildThread] WARNING: pipe
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1583288328017	geckodriver	INFO	Listening on 127.0.0.1:38319
+1583288331149	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--disable-gpu"]
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583288332488	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583288334425	Marionette	INFO	Listening on port 38328
+1583288334690	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23964, Chrome_Ch[Child 14660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14660, Chrome_ChildThread]JavaScript error: resource://shield-recipe-client/lib/RecipeRunner.jsm, line 137: TypeError: prefs is undefined
+[Child 24588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24588, *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 24132, Chrome_ChildThread] WARNING: pipe
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1583288671533	geckodriver	INFO	Listening on 127.0.0.1:38606
+1583288674722	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583288675734	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583288677163	Marionette	INFO	Listening on port 38618
+1583288677258	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583293306417	geckodriver	INFO	Listening on 127.0.0.1:47068
+1583293309497	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583293310654	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583293312194	Marionette	INFO	Listening on port 47077
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583293312528	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583293434066	geckodriver	INFO	Listening on 127.0.0.1:47259
+1583293437156	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583293438182	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583293439662	Marionette	INFO	Listening on port 47269
+1583293439697	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583293588733	geckodriver	INFO	Listening on 127.0.0.1:47440
+1583293591829	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583293592900	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583293594378	Marionette	INFO	Listening on port 47449
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583293594875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583293734191	geckodriver	INFO	Listening on 127.0.0.1:47612
+1583293737286	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583293738408	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583293739901	Marionette	INFO	Listening on port 47620
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583293740318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583299950521	geckodriver	INFO	Listening on 127.0.0.1:51199
+1583299953595	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583299954895	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583299956573	Marionette	INFO	Listening on port 51207
+1583299956638	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583300182425	geckodriver	INFO	Listening on 127.0.0.1:51426
+1583300185497	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583300186827	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583300188479	Marionette	INFO	Listening on port 51434
+1583300188535	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583300581708	geckodriver	INFO	Listening on 127.0.0.1:51742
+1583300584792	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583300586201	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583300587804	Marionette	INFO	Listening on port 51759
+1583300587838	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583300853283	geckodriver	INFO	Listening on 127.0.0.1:51996
+1583300856384	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583300857802	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583300859584	Marionette	INFO	Listening on port 52005
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583300859930	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583300876304	geckodriver	INFO	Listening on 127.0.0.1:52087
+1583300879434	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583300881252	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583300883493	Marionette	INFO	Listening on port 52097
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583300885578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583301070858	geckodriver	INFO	Listening on 127.0.0.1:52296
+1583301074020	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583301075719	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583301077517	Marionette	INFO	Listening on port 52304
+1583301077573	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583301806782	geckodriver	INFO	Listening on 127.0.0.1:53410
+1583301809933	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583301811963	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583301814362	Marionette	INFO	Listening on port 53422
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583301816085	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583301921699	geckodriver	INFO	Listening on 127.0.0.1:53605
+1583301924808	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583301926431	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583301929153	Marionette	INFO	Listening on port 53613
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583301930958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583301991909	geckodriver	INFO	Listening on 127.0.0.1:53761
+1583301995031	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583301997035	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583301999918	Marionette	INFO	Listening on port 53769
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583302001182	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583302424062	geckodriver	INFO	Listening on 127.0.0.1:54127
+1583302427145	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583302429985	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583302434408	Marionette	INFO	Listening on port 54135
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583302434823	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583303212294	geckodriver	INFO	Listening on 127.0.0.1:54842
+1583303215473	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583303217888	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583303220602	Marionette	INFO	Listening on port 54851
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583303221650	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583303263134	geckodriver	INFO	Listening on 127.0.0.1:54962
+1583303266261	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583303268473	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583303271576	Marionette	INFO	Listening on port 54973
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583303272436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583308839033	geckodriver	INFO	Listening on 127.0.0.1:59555
+1583308842053	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+1583308844126	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583308844828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583308844828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583308844828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583308844828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583308844989	Marionette	TRACE	Received observer notification profile-after-change
+1583308845089	Marionette	TRACE	Received observer notification toplevel-window-ready
+1583308845138	Marionette	TRACE	Received observer notification command-line-startup
+1583308845139	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1583308845460	Marionette	TRACE	Received observer notification toplevel-window-ready
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583308847895	Marionette	TRACE	Received observer notification marionette-startup-requested
+1583308847896	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1583308847915	Marionette	TRACE	All scripts recorded.
+1583308847916	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1583308847916	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1583308847916	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1583308847917	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1583308847917	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1583308847917	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1583308847917	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1583308847918	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1583308847918	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1583308847918	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1583308847918	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1583308847919	Marionette	DEBUG	Setting recommended pref network.http.phishy-userpass-length to 255
+1583308847919	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1583308847919	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1583308847919	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1583308848005	Marionette	INFO	Listening on port 59563
+1583308848005	Marionette	DEBUG	Marionette is listening
+1583308848275	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:59583
+1583308848295	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1583308848296	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:175: ... t@chrome://marionette/content/server.js:249:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:501:20\n"},null]
+1583309004911	geckodriver	INFO	Listening on 127.0.0.1:59801
+1583309008239	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583309011297	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583309016813	Marionette	INFO	Listening on port 59822
+1583309017346	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583309246400	geckodriver	INFO	Listening on 127.0.0.1:60058
+1583309249514	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583309251655	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583309254813	Marionette	INFO	Listening on port 60066
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583309255688	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583309335426	geckodriver	INFO	Listening on 127.0.0.1:60219
+1583309339818	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583309343098	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583309346563	Marionette	INFO	Listening on port 60228
+1583309346955	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150090,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583309515709	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583309521621	Marionette	INFO	Listening on port 60437
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583309523335	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583309743250	geckodriver	INFO	Listening on 127.0.0.1:60661
+1583309747097	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583309750279	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583309754694	Marionette	INFO	Listening on port 60671
+1583309754914	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583309894992	geckodriver	INFO	Listening on 127.0.0.1:60859
+1583309898209	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583309900878	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583309905087	Marionette	INFO	Listening on port 60870
+1583309905396	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583310080355	geckodriver	INFO	Listening on 127.0.0.1:61113
+1583310083486	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583310086671	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583310090910	Marionette	INFO	Listening on port 61122
+1583310091184	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583310199094	geckodriver	INFO	Listening on 127.0.0.1:61311
+1583310202203	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583310205310	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583310210600	Marionette	INFO	Listening on port 61319
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583310212744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150090,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583310321290	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583310328338	Marionette	INFO	Listening on port 61580
+1583310329344	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583310655377	geckodriver	INFO	Listening on 127.0.0.1:62074
+1583310658532	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+1583310681812	geckodriver	INFO	Listening on 127.0.0.1:62104
+1583310685051	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583310691615	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583310698190	Marionette	INFO	Listening on port 62113
+1583310698577	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583310707724	geckodriver::marionette	ERROR	Failed to kill browser process
+1583311329370	geckodriver	INFO	Listening on 127.0.0.1:1868
+1583311332550	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583311336162	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583311337859	Marionette	INFO	Listening on port 1879
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583311338743	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583311626558	geckodriver	INFO	Listening on 127.0.0.1:2229
+1583311629827	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583311635109	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583311637752	Marionette	INFO	Listening on port 2237
+1583311638198	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583311717827	geckodriver	INFO	Listening on 127.0.0.1:2373
+1583311721022	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583311722666	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583311725174	Marionette	INFO	Listening on port 2381
+1583311725282	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150090,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150090,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+rs\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583311889889	Marionette	INFO	Listening on port 2620
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583311892001	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583311992817	geckodriver	INFO	Listening on 127.0.0.1:2822
+1583311996037	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583311997787	Marionette	INFO	Enabled via --marionette
+1583312011147	geckodriver	INFO	Listening on 127.0.0.1:2836
+1583312014316	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583312016018	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583312018539	Marionette	INFO	Listening on port 2844
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583312020632	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583312152317	geckodriver	INFO	Listening on 127.0.0.1:3024
+1583312155486	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583312157229	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583312160036	Marionette	INFO	Listening on port 3032
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583312161812	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583312377191	geckodriver	INFO	Listening on 127.0.0.1:3277
+1583312380371	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583312382239	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583312384964	Marionette	INFO	Listening on port 3285
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583312386712	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583312637876	geckodriver	INFO	Listening on 127.0.0.1:3402
+1583312641089	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583312643030	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583312646040	Marionette	INFO	Listening on port 3410
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583312647390	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583312882035	geckodriver	INFO	Listening on 127.0.0.1:3583
+1583312885205	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583312887010	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583312890103	Marionette	INFO	Listening on port 3591
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583312891521	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583313009505	geckodriver	INFO	Listening on 127.0.0.1:3690
+1583313012675	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583313014493	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583313017261	Marionette	INFO	Listening on port 3698
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583313019010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583313278256	geckodriver	INFO	Listening on 127.0.0.1:3928
+1583313281480	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583313283577	Marionette	INFO	Enabled via --marionette
+1583313329501	geckodriver	INFO	Listening on 127.0.0.1:3951
+1583313332764	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583313334757	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583313337742	Marionette	INFO	Listening on port 3961
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583313338922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583313846969	geckodriver	INFO	Listening on 127.0.0.1:4320
+1583313850128	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583313852167	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://onboarding/onboarding.js, line 18: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIStringBundle.GetStringFromName]
+1583313854952	Marionette	INFO	Listening on port 4328
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583313856273	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583313911647	geckodriver	INFO	Listening on 127.0.0.1:4557
+1583313914799	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583313916611	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583313919771	Marionette	INFO	Listening on port 4567
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583313920959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583314154227	geckodriver	INFO	Listening on 127.0.0.1:5787
+1583314157397	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583314159342	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583314162452	Marionette	INFO	Listening on port 5795
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583314163553	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583314450917	geckodriver	INFO	Listening on 127.0.0.1:6080
+1583314454124	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583314456119	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583314459818	Marionette	INFO	Listening on port 6090
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583314460280	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583314592504	geckodriver	INFO	Listening on 127.0.0.1:6347
+1583314595659	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583314598062	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583314601920	Marionette	INFO	Listening on port 6355
+1583314602324	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583315327489	geckodriver	INFO	Listening on 127.0.0.1:6696
+1583315330650	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583315332881	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583315336124	Marionette	INFO	Listening on port 6706
+1583315336824	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583315386306	geckodriver	INFO	Listening on 127.0.0.1:6852
+1583315389453	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+1583315395911	geckodriver	INFO	Listening on 127.0.0.1:6868
+1583315399115	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583315401648	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583315405178	Marionette	INFO	Listening on port 6876
+1583315405293	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583315701929	geckodriver	INFO	Listening on 127.0.0.1:7189
+1583315705154	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583315707983	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583315711875	Marionette	INFO	Listening on port 7197
+1583315712441	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583315916646	geckodriver	INFO	Listening on 127.0.0.1:7394
+1583315919866	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583315922584	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583315928161	Marionette	INFO	Listening on port 7404
+1583315928377	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583316241139	geckodriver	INFO	Listening on 127.0.0.1:7591
+1583316244307	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583316247007	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583316251028	Marionette	INFO	Listening on port 7599
+1583316251499	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583316393114	geckodriver	INFO	Listening on 127.0.0.1:8476
+1583316396291	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583316399051	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583316403304	Marionette	INFO	Listening on port 8484
+1583316403467	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583316582499	geckodriver	INFO	Listening on 127.0.0.1:8639
+1583316585703	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583316588417	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583316592751	Marionette	INFO	Listening on port 8647
+1583316592885	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583316819696	geckodriver	INFO	Listening on 127.0.0.1:8828
+1583316823084	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583316826191	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583316830991	Marionette	INFO	Listening on port 8836
+1583316831294	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583316903439	geckodriver	INFO	Listening on 127.0.0.1:8961
+1583316906689	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583316910954	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583316916042	Marionette	INFO	Listening on port 8969
+1583316917108	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150090,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150090,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1583393403450	geckodriver	INFO	Listening on 127.0.0.1:25842
+1583393406601	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583393408298	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583393410199	Marionette	INFO	Listening on port 25851
+1583393410659	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583393660836	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1583465866174	geckodriver	INFO	Listening on 127.0.0.1:56168
+1583465869314	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583465870319	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583465871724	Marionette	INFO	Listening on port 56176
+1583465871851	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583481270528	geckodriver	INFO	Listening on 127.0.0.1:63113
+1583481273655	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583481274680	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583481276076	Marionette	INFO	Listening on port 63122
+1583481276270	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583481355996	geckodriver	INFO	Listening on 127.0.0.1:63335
+1583481359090	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583481360021	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583481361413	Marionette	INFO	Listening on port 63346
+1583481361629	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1583481431656	geckodriver	INFO	Listening on 127.0.0.1:63573
+1583481434785	geckodriver::marionette	INFO	Starting browser \\?\D:\HH\firefox.exe with args ["-marionette", "--headless", "--disable-gpu"]
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583481435781	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583481437154	Marionette	INFO	Listening on port 63582
+1583481437343	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150090,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150090,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+ers\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583481515964	Marionette	INFO	Listening on port 63860
+1583481516070	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150090,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583481561360	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583481563001	Marionette	INFO	Listening on port 64010
+1583481563151	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150090,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583481652967	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583481654455	Marionette	INFO	Listening on port 64259
+Unable to read VR Path Registry from C:\Users\86189\AppData\Local\openvr\openvrpaths.vrpath
+1583481654936	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.geetest.com/static/js/fullpage.8.9.3.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150090,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
